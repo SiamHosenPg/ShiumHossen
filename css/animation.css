@@ -1,0 +1,90 @@
+
+@keyframes ScrollButtonMove {
+    50% {transform:translateY(10px);}
+    
+  }
+@keyframes HeroHomeAnimetion {
+    0%{
+        transform:translateX(-310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+
+
+@keyframes HomeH4Animaton {
+    0%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    60%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes HomeH1Animaton {
+    0%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    60%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes HomeH2Animaton {
+    0%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    60%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes HomeHpAnimaton {
+    0%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    60%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes HomeHbAnimaton {
+    0%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    60%{
+        transform:translateX(310px);
+        opacity: 0;
+    }
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+}
+
+
+  

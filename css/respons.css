@@ -1,0 +1,44 @@
+@media only screen and (max-width: 1300px) {
+    .HomeSize .HmLeft{
+        width: 50%;
+        margin-left: -100px;
+    } 
+    .HomeSize .HmLeft .ExpHome{
+        width: 400px;
+        height: 400px;
+    }
+  }
+
+
+  @media only screen and (max-width: 800px) {
+    .ScrollDownButton   {
+        top:40px;
+        left: 30px;
+    }
+    .HomeSize{
+        flex-direction: column;
+        margin:20px 30px;
+        padding-bottom: 30px;
+	    justify-content: center;
+    }
+    .HomeSize .HmLeft{
+        width: 100%;
+        margin-left: 0px;
+    } 
+    .HomeSize .HmLeft .ExpHome{ 
+        width: 300px;
+        height: 300px;
+    }
+    .HomeSize .HmRight{
+        width: 100%;
+        z-index: 2;
+        }
+        h1{	    font-size:28px;  }
+        h2{ 	font-size:22px; }
+        h3{     font-size:20px;}
+        h4{		font-size:17px; }
+        h5{		font-size:15px; }
+
+ 
+
+  }
